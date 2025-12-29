@@ -1,67 +1,59 @@
-<h1 align="center">👋 Hello im White</h1>
+# <samp>White Dev</samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-###
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/const.guilherme)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-neves-032716323)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-000000.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/guilhermehnf)
 
-<p align="center">Welcome to my profile! I am a developer passionate about coding, focused on Web Development... I hope you enjoy my projects!</p>
+---
 
-###
+## <samp>Hello World!</samp> 🌍
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/XxWhitexX/count.svg?"  />
-</div>
+<samp>
+I'm a **technology student from Brazil 🇧🇷**, focused on learning and building projects with web development, automation, and game-related systems.
+</samp>
 
-###
+<samp>
+My journey in programming started at **11 years old**, when I took my first **Python course as a child**. Since then, I have been **self-taught**, constantly learning on my own, exploring new technologies, and improving through hands-on projects.
+</samp>
 
-<div align="center">
+<samp>
+I enjoy turning ideas into practical solutions, studying new technologies, and improving my skills step by step through active projects.
+</samp>
 
-![Ué cade o som](https://spotify-recently-played-readme.vercel.app/api?user=31yybkvjye7rh6g6uspxfhmr6tsy&unique={true|1|on|yes})
-  
-</div>
-  
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+### 🚀 About me
 
-###
+- 💻 <samp>Studying **Artificial Intelligence at UNIARA**</samp>
+- 🐍 <samp>Started programming with **Python at 11 years old**</samp>
+- 🌐 <samp>Building **web projects for portfolio**</samp>
+- 📚 <samp>Self-taught and always improving my skills</samp>
+- 🎯 <samp>Goal: become a professional software engineer</samp>
+
+---
+
+### 🛠️ Technologies & Tools
+
+<samp>
+Python • HTML • CSS • JavaScript • jQuery • TypeScript • Node.js • React • Next.js • Tailwind CSS • Figma • MySQL • NPM • Yarn • Git • GitHub • VS Code
+</samp>
+
+---
+
+### 📂 Projects
+<samp>
+Here you will find beginner-friendly and learning-focused projects aimed at strengthening fundamentals and best practices.
+</samp>
+
+---
+
+### 📫 Contact
+
+- 📸 Instagram: [@const.guilherme](https://www.instagram.com/const.guilherme)
+- 💼 LinkedIn: [Guilherme Neves](https://www.linkedin.com/in/guilherme-neves-032716323)
+
+---
+
+<samp>
+"Learning one step at a time is still progress."
+</samp>
